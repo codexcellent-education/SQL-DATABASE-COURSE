@@ -1,0 +1,1 @@
+SELECT * FROM studentunitregistrations ORDER BY registrationID DESC;
